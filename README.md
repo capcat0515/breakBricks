@@ -38,3 +38,7 @@ Processing為遊戲設計  Arduion加入按鈕,可變電阻與搖桿
 |:-------:|:----:|:----:|:-----:|
 |  ![](https://github.com/capcat0515/breakBricks/blob/main/images/%E6%89%93%E7%A3%9A%E5%A1%8A_start.png)  |  ![](https://github.com/capcat0515/breakBricks/blob/main/images/%E6%89%93%E7%A3%9A%E5%A1%8A_play.png)  | ![](https://github.com/capcat0515/breakBricks/blob/main/images/%E6%89%93%E7%A3%9A%E5%A1%8A_setting.png)  | ![](https://github.com/capcat0515/breakBricks/blob/main/images/%E6%89%93%E7%A3%9A%E5%A1%8A_pointColumn.png)  |
 
+* 實際操作影片
+
+
+[![](https://github.com/capcat0515/breakBricks/blob/main/images/11.png)](https://youtu.be/p0kpcN98RvM)
